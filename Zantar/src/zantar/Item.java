@@ -10,7 +10,7 @@ public class Item {
 	private String message;
 	private int power;
 	private int charges;
-	
+	// this is  the constuctor
 	public Item(boolean isconsumable, boolean isunstopable, boolean isheal, boolean isnoncombat, String name,
 			String desc, String message, int power, int charges) {
 		this.isconsumable = isconsumable;
