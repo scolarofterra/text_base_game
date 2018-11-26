@@ -1,4 +1,4 @@
-package comp730;
+package zantar;
 
 public class Item {
 	private boolean isconsumable;
